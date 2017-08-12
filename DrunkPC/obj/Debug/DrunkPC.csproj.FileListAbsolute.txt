@@ -1,0 +1,6 @@
+D:\Projects portfolio\VisualStudioProjects\DrunkPC\DrunkPC\bin\Debug\DrunkPC.exe.config
+D:\Projects portfolio\VisualStudioProjects\DrunkPC\DrunkPC\obj\Debug\DrunkPC.csprojResolveAssemblyReference.cache
+D:\Projects portfolio\VisualStudioProjects\DrunkPC\DrunkPC\bin\Debug\DrunkPC.exe
+D:\Projects portfolio\VisualStudioProjects\DrunkPC\DrunkPC\bin\Debug\DrunkPC.pdb
+D:\Projects portfolio\VisualStudioProjects\DrunkPC\DrunkPC\obj\Debug\DrunkPC.exe
+D:\Projects portfolio\VisualStudioProjects\DrunkPC\DrunkPC\obj\Debug\DrunkPC.pdb
